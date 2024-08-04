@@ -1,0 +1,81 @@
+.sorch {
+  padding-bottom: 40px;
+  display: flex;
+}
+input {
+  display: flex;
+  gap: 10px;
+  border: 0;
+  padding: 10px;
+  width: 300px;
+  background: #d0d0d2;
+  align-items: center;
+  padding: 10px;
+  outline-color: #d0d0d200;
+  justify-content: space-between;
+}
+.lup {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 8.5px;
+  color: #d0d0d2;
+  font-size: 15px;
+  background: #f38160;
+  border-top-right-radius: 5px;
+  border-bottom-right-radius: 5px;
+}
+h1 {
+  padding-top: 20px;
+  color: rgb(64, 60, 57);
+  font-family: Montserrat, sans-serif;
+  font-size: 50px;
+  font-weight: 600;
+  letter-spacing: -3.5%;
+  text-align: left;
+}
+.mainp {
+  padding-bottom: 48px;
+  padding-top: 16px;
+  color: rgb(148, 148, 148);
+  font-family: Poppins, sans-serif;
+  font-size: 14px;
+  font-weight: 400;
+}
+.allbox {
+  display: flex;
+  align-items: flex-end;
+}
+.ongtaraf {
+  display: flex;
+}
+.minibox {
+  margin-bottom: 25px;
+  text-align: center;
+  height: 140px;
+  height: 200px;
+  padding: 10px;
+  box-sizing: border-box;
+  border: 1px solid rgb(148, 148, 148);
+  border-radius: 32px;
+  background: rgba(243, 129, 96, 0.05);
+}
+.minibox p {
+  padding-top: 25px;
+}
+.chek {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 110px;
+  font-size: 17px;
+}
+.first {
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+}
+.chekbox {
+  display: flex;
+  gap: 50px;
+}

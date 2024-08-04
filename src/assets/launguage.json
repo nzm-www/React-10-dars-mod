@@ -1,0 +1,28 @@
+{
+  "uz": {
+    "translation": {
+      "firstext": "Oziq-ovqatlaringiz sizga yetib kelsin",
+      "desc": "Eng yangi ingredientlar bilan mazali taom tayyorlash uchun tashqariga chiqmasdan yangi oziq-ovqat mahsulotlarini onlayn xarid qiling",
+      "hello": "Salom",
+      "minititle": "Sutli mahsulotlar",
+      "minidesc": "Mijoz juda muhim, mijozni mijoz kuzatib boradi.",
+      "by": "xayr"
+    }
+  },
+  "en": {
+    "translation": {
+      "firstext": "Let your groceries come to you",
+      "desc": "Get fresh groceries online without stepping out to make delicious food with the freshest ingredients",
+      "minititle": "Dairy Products",
+      "minidesc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+    }
+  },
+  "ru": {
+    "translation": {
+      "firstext": "Пусть ваши продукты придут к вам",
+      "desc": "Приобретайте свежие продукты онлайн, не выходя из дома, и готовьте вкусные блюда из самых свежих ингредиентов.",
+      "minititle": "молочные продукты",
+      "minidesc": "Клиент очень важен, за клиентом пойдет клиент."
+    }
+  }
+}
